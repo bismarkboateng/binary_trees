@@ -1,2 +1,2 @@
-Binary Trees 
-Algorithm / Data Structures
+# binary_trees
+Algorithm/Data structure
